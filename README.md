@@ -1,0 +1,1 @@
+# stm32wba65ri-dk1-bsp
